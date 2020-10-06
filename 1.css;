@@ -1,0 +1,20 @@
+.highlight{
+	background-color:lightgreen;
+}
+.solid{
+	border-style: solid;
+}
+.dashed{
+	border-style: dashed;
+}
+.double{
+	border-style: double;
+}
+.groove{
+	border-style: groove;
+}
+body{
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+}
